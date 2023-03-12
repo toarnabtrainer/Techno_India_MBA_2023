@@ -439,7 +439,7 @@ In this example, the lambda function lambda x: -x is used as the key function fo
 
 <hr>
 
-### Exception handling in python
+### Exception handling in Python
 In Python, exception handling is a way to deal with errors that may occur during the execution of a program. When an error occurs, an exception is raised. If this exception is not caught and handled, the program will terminate with an error message. However, by using exception handling, you can catch the exception and handle it in a way that allows the program to continue running.
 
 To handle exceptions in Python, you use the try and except statements. The try statement encloses a block of code that may raise an exception. The except statement specifies how to handle the exception that is raised. Here's an example:
@@ -666,7 +666,7 @@ These are just a few examples of the many operations that can be performed on st
 
 <hr>
 
-### List in Python?
+### List in Python
 In Python, a list is a collection of items (values or objects) which are ordered and mutable. It is one of the most commonly used data structures in Python programming. A list can contain items of different data types such as integers, floats, strings, and even other lists.
 
 Lists are defined using square brackets [] and commas to separate the items. For example:
@@ -732,7 +732,7 @@ print(my_list[1][0])  # prints 2
 
 <hr>
 
-### Tuple in Python?
+### Tuple in Python
 In Python, a tuple is a collection of items (values or objects) which are ordered and immutable. It is similar to a list, but unlike a list, a tuple cannot be modified once it has been created. Tuples are defined using parentheses () and commas to separate the items. For example:
 
 <pre>
