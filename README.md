@@ -442,6 +442,8 @@ In this example, the lambda function lambda x: -x is used as the key function fo
 ### Exception handling in Python
 In Python, exception handling is a way to deal with errors that may occur during the execution of a program. When an error occurs, an exception is raised. If this exception is not caught and handled, the program will terminate with an error message. However, by using exception handling, you can catch the exception and handle it in a way that allows the program to continue running.
 
+URL for Python Exception Hierarchy: https://docs.python.org/3/library/exceptions.html<br>
+
 To handle exceptions in Python, you use the try and except statements. The try statement encloses a block of code that may raise an exception. The except statement specifies how to handle the exception that is raised. Here's an example:
 
 
