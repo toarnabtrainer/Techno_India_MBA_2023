@@ -1,10 +1,8 @@
 # Techno_India_MBA_2023
 
-**Python Download Link:**<br>
-**Anaconda Download Link:** https://www.anaconda.com/products/distribution
+<hr>
 
-**Online Python Editors:**<br>
-https://onecompiler.com/<br># Python_Notes
+# Python_Notes
 
 <hr>
 
@@ -929,14 +927,3 @@ In the above examples, | represents the union operator, & represents the interse
 Frozen sets are useful in situations where you need a set that cannot be modified, such as when you want to use a set as a key in a dictionary or as an element in another set.
 
 <hr>
-
-https://www.onlinegdb.com/
-
-**Online Jupyter Lab Editor Link:**<br>
-https://jupyter.org/try
-
-**Python Study Material Links:**<br>
-**Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
-**Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
-**Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
-**Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
