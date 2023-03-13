@@ -599,6 +599,12 @@ my_tuple = (1, 2, 3, 'four', 'five')
 my_set = {1, 2, 3, 4, 5}
 </pre>
 
+* **Frozen Set:** In Python, a frozen set is an immutable version of a set. Once a frozen set is created, its elements cannot be added, removed, or modified.
+
+<pre>
+my_frozen_set = frozenset([1, 2, 3, 4, 5])
+</pre>
+
 * **Dictionaries:** Dictionaries are unordered collections of key-value pairs. Dictionaries are useful for storing and retrieving data based on a key. You can create a dictionary in Python by enclosing a comma-separated sequence of key-value pairs in curly braces, or by using the dict() function.
 
 <pre>
